@@ -1,0 +1,71 @@
+{
+ "job": "Land to Rear of 1-8 Wesley Terrace, Castleside",
+ "revision": "Q01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Footings",
+   "desc": "Stepped Nudura ICF footing walls under every block, following the site levels (6in XR35 external, 6in Standard party walls; 2 to 5 courses below FFL), the indicative ground-floor slabs, and the 10G site plan draped on the survey levels.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 13420508
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF, partitions, windows and doors",
+   "desc": "Ground-floor ICF walls with the openings (25 mm head and jamb overfly), ground-floor timber stud partitions (38x89 C16), UPVC windows and doors.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 16280476
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "253 mm metal-web joists spanning gable to party wall, top-hung on cut-down ledgers fixed to the ICF with Strong-Tie connectors, 22 mm Egger Protect deck (toggle), timber stairs.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 13503028
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF, partitions and windows",
+   "desc": "First-floor ICF walls to the eaves at 5,320 mm, the gables and party walls to the roof line, first-floor timber stud partitions, UPVC windows.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 17543684
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Fink trussed rafters at 600 centres with gable ladders on the houses; bungalow hip roofs: 2-ply girder trusses at the hip ends with Fink trusses between, hip ends framed loose with hips, crown and jack rafters (for the manufacturer to price as jack trusses).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10860964
+    }
+   ]
+  }
+ ]
+}
