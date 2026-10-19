@@ -109,7 +109,7 @@
      "glb": "stage-1.glb",
      "part": null,
      "label": null,
-     "bytes": 13420508
+     "bytes": 3362044
     }
    ]
   },
@@ -122,7 +122,7 @@
      "glb": "stage-2.glb",
      "part": null,
      "label": null,
-     "bytes": 16280476
+     "bytes": 7688472
     }
    ]
   },
@@ -135,7 +135,7 @@
      "glb": "stage-3.glb",
      "part": null,
      "label": null,
-     "bytes": 13503028
+     "bytes": 7342076
     }
    ]
   },
@@ -148,7 +148,7 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 17543684
+     "bytes": 9955220
     }
    ]
   },
@@ -161,268 +161,26 @@
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 10860964
+     "bytes": 924028
     }
    ]
   }
  ],
  "groups": [
   {
-   "id": "drawings",
-   "title": "Quotation documents",
-   "note": "The site plan with the 8 blocks and floor levels, the stepped footing schedule, and per block type (T01 semi, T01 terrace of 3, T02 bungalow): general arrangements (ICF walls and timber partitions), elevations, a section, the roof truss layout and truss profiles, the first-floor joist layout and joist profiles (for supplier quotes) and the timber partition plans. Then the Nudura proposal, load plans, stack sheets and the BOQ package. For pricing, not for construction.",
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Nudura proposal, the artic load plans and pallet stack sheets for every block, and the BOQ package (ICF bill, build programme and finishes bills; the Excel version has live rate columns).",
    "zip": {
-    "file": "downloads/ES26-080 Quotation documents.zip",
-    "bytes": 14003012,
-    "count": 38
+    "file": "downloads/ES26-080 Quotation.zip",
+    "bytes": 2589308,
+    "count": 4
    },
    "docs": [
     {
-     "id": "ES26-080-GA-01",
-     "title": "T01 Semi - Foundation ICF",
-     "file": "docs/drawings/ES26-080-GA-01 T01 Semi - Foundation ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-01.png",
-     "bytes": 55292,
-     "number": "ES26-080-GA-01",
-     "view": "stage-1",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-02",
-     "title": "T01 Semi - Ground Floor ICF",
-     "file": "docs/drawings/ES26-080-GA-02 T01 Semi - Ground Floor ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-02.png",
-     "bytes": 59856,
-     "number": "ES26-080-GA-02",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-03",
-     "title": "T01 Semi - First Floor ICF",
-     "file": "docs/drawings/ES26-080-GA-03 T01 Semi - First Floor ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-03.png",
-     "bytes": 60089,
-     "number": "ES26-080-GA-03",
-     "view": "stage-4",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-04",
-     "title": "T01 Terrace of 3 - Foundation ICF",
-     "file": "docs/drawings/ES26-080-GA-04 T01 Terrace of 3 - Foundation ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-04.png",
-     "bytes": 55594,
-     "number": "ES26-080-GA-04",
-     "view": "stage-1",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-05",
-     "title": "T01 Terrace of 3 - Ground Floor ICF",
-     "file": "docs/drawings/ES26-080-GA-05 T01 Terrace of 3 - Ground Floor ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-05.png",
-     "bytes": 61976,
-     "number": "ES26-080-GA-05",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-06",
-     "title": "T01 Terrace of 3 - First Floor ICF",
-     "file": "docs/drawings/ES26-080-GA-06 T01 Terrace of 3 - First Floor ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-06.png",
-     "bytes": 62293,
-     "number": "ES26-080-GA-06",
-     "view": "stage-4",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-07",
-     "title": "T02 Bungalow - Foundation ICF",
-     "file": "docs/drawings/ES26-080-GA-07 T02 Bungalow - Foundation ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-07.png",
-     "bytes": 54856,
-     "number": "ES26-080-GA-07",
-     "view": "stage-1",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-GA-08",
-     "title": "T02 Bungalow - Ground Floor ICF",
-     "file": "docs/drawings/ES26-080-GA-08 T02 Bungalow - Ground Floor ICF.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-GA-08.png",
-     "bytes": 58401,
-     "number": "ES26-080-GA-08",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-01",
-     "title": "T01 Semi - Front and Rear Elevations",
-     "file": "docs/drawings/ES26-080-EL-01 T01 Semi - Front and Rear Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-01.png",
-     "bytes": 204155,
-     "number": "ES26-080-EL-01",
-     "view": "elev-N",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-02",
-     "title": "T01 Semi - Side Elevations",
-     "file": "docs/drawings/ES26-080-EL-02 T01 Semi - Side Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-02.png",
-     "bytes": 382621,
-     "number": "ES26-080-EL-02",
-     "view": "elev-E",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-03",
-     "title": "T01 Terrace of 3 - Front and Rear Elevations",
-     "file": "docs/drawings/ES26-080-EL-03 T01 Terrace of 3 - Front and Rear Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-03.png",
-     "bytes": 287084,
-     "number": "ES26-080-EL-03",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-04",
-     "title": "T01 Terrace of 3 - Side Elevations",
-     "file": "docs/drawings/ES26-080-EL-04 T01 Terrace of 3 - Side Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-04.png",
-     "bytes": 540390,
-     "number": "ES26-080-EL-04",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-05",
-     "title": "T02 Bungalow - Front and Rear Elevations",
-     "file": "docs/drawings/ES26-080-EL-05 T02 Bungalow - Front and Rear Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-05.png",
-     "bytes": 95409,
-     "number": "ES26-080-EL-05",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-EL-06",
-     "title": "T02 Bungalow - Side Elevations",
-     "file": "docs/drawings/ES26-080-EL-06 T02 Bungalow - Side Elevations.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-EL-06.png",
-     "bytes": 81923,
-     "number": "ES26-080-EL-06",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-SE-01",
-     "title": "T01 Semi - Section A-A",
-     "file": "docs/drawings/ES26-080-SE-01 T01 Semi - Section A-A.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-SE-01.png",
-     "bytes": 162422,
-     "number": "ES26-080-SE-01",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-SE-02",
-     "title": "T01 Terrace of 3 - Section A-A",
-     "file": "docs/drawings/ES26-080-SE-02 T01 Terrace of 3 - Section A-A.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-SE-02.png",
-     "bytes": 233680,
-     "number": "ES26-080-SE-02",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-SE-03",
-     "title": "T02 Bungalow - Section A-A",
-     "file": "docs/drawings/ES26-080-SE-03 T02 Bungalow - Section A-A.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-SE-03.png",
-     "bytes": 64400,
-     "number": "ES26-080-SE-03",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-FD-01",
-     "title": "Stepped Foundation ICF Schedule",
-     "file": "docs/drawings/ES26-080-FD-01 Stepped Foundation ICF Schedule.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-FD-01.png",
-     "bytes": 63445,
-     "number": "ES26-080-FD-01",
-     "view": "stage-1",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-FL-01",
-     "title": "T01 Semi - First Floor Layout",
-     "file": "docs/drawings/ES26-080-FL-01 T01 Semi - First Floor Layout.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-FL-01.png",
-     "bytes": 90242,
-     "number": "ES26-080-FL-01",
-     "view": "stage-3",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-FL-02",
-     "title": "T01 Semi - Floor Joist Profiles",
-     "file": "docs/drawings/ES26-080-FL-02 T01 Semi - Floor Joist Profiles.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-FL-02.png",
-     "bytes": 57876,
-     "number": "ES26-080-FL-02",
-     "view": "stage-3",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-FL-03",
-     "title": "T01 Terrace of 3 - First Floor Layout",
-     "file": "docs/drawings/ES26-080-FL-03 T01 Terrace of 3 - First Floor Layout.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-FL-03.png",
-     "bytes": 103836,
-     "number": "ES26-080-FL-03",
-     "view": "stage-3",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-FL-04",
-     "title": "T01 Terrace of 3 - Floor Joist Profiles",
-     "file": "docs/drawings/ES26-080-FL-04 T01 Terrace of 3 - Floor Joist Profiles.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-FL-04.png",
-     "bytes": 58111,
-     "number": "ES26-080-FL-04",
-     "view": "stage-3",
-     "view_opts": {}
-    },
-    {
      "id": "ES26-080-LP-01",
      "title": "Load plans - artic deliveries, all blocks",
-     "file": "docs/drawings/ES26-080-LP-01 Load plans - artic deliveries, all blocks.pdf",
+     "file": "docs/quote/ES26-080-LP-01 Load plans - artic deliveries, all blocks.pdf",
      "pages": 22,
      "thumb": "thumbs/ES26-080-LP-01.png",
      "bytes": 276899,
@@ -433,7 +191,7 @@
     {
      "id": "ES26-080-PR-01",
      "title": "Nudura proposal Rev A",
-     "file": "docs/drawings/ES26-080-PR-01 Nudura proposal Rev A.pdf",
+     "file": "docs/quote/ES26-080-PR-01 Nudura proposal Rev A.pdf",
      "pages": 4,
      "thumb": "thumbs/ES26-080-PR-01.png",
      "bytes": 386572,
@@ -444,7 +202,7 @@
     {
      "id": "ES26-080-PS-01",
      "title": "Pallet stack sheets, all blocks",
-     "file": "docs/drawings/ES26-080-PS-01 Pallet stack sheets, all blocks.pdf",
+     "file": "docs/quote/ES26-080-PS-01 Pallet stack sheets, all blocks.pdf",
      "pages": 141,
      "thumb": "thumbs/ES26-080-PS-01.png",
      "bytes": 1813034,
@@ -453,141 +211,9 @@
      "view_opts": {}
     },
     {
-     "id": "ES26-080-RF-01",
-     "title": "T01 Semi - Roof Truss Layout",
-     "file": "docs/drawings/ES26-080-RF-01 T01 Semi - Roof Truss Layout.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-01.png",
-     "bytes": 60664,
-     "number": "ES26-080-RF-01",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-RF-02",
-     "title": "T01 Semi - Truss Profiles",
-     "file": "docs/drawings/ES26-080-RF-02 T01 Semi - Truss Profiles.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-02.png",
-     "bytes": 54610,
-     "number": "ES26-080-RF-02",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-RF-03",
-     "title": "T01 Terrace of 3 - Roof Truss Layout",
-     "file": "docs/drawings/ES26-080-RF-03 T01 Terrace of 3 - Roof Truss Layout.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-03.png",
-     "bytes": 62497,
-     "number": "ES26-080-RF-03",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-RF-04",
-     "title": "T01 Terrace of 3 - Truss Profiles",
-     "file": "docs/drawings/ES26-080-RF-04 T01 Terrace of 3 - Truss Profiles.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-04.png",
-     "bytes": 54625,
-     "number": "ES26-080-RF-04",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-RF-05",
-     "title": "T02 Bungalow - Hip Roof Layout",
-     "file": "docs/drawings/ES26-080-RF-05 T02 Bungalow - Hip Roof Layout.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-05.png",
-     "bytes": 60283,
-     "number": "ES26-080-RF-05",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-RF-06",
-     "title": "T02 Bungalow - Truss Profiles and Hip-End Timber",
-     "file": "docs/drawings/ES26-080-RF-06 T02 Bungalow - Truss Profiles and Hip-End Timber.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-RF-06.png",
-     "bytes": 57121,
-     "number": "ES26-080-RF-06",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-SP-01",
-     "title": "Site Plan - Blocks, Plots and Floor Levels",
-     "file": "docs/drawings/ES26-080-SP-01 Site Plan - Blocks, Plots and Floor Levels.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-SP-01.png",
-     "bytes": 10543350,
-     "number": "ES26-080-SP-01",
-     "view": "stage-5",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-TF-01",
-     "title": "T01 Semi - Ground Floor Timber Partitions",
-     "file": "docs/drawings/ES26-080-TF-01 T01 Semi - Ground Floor Timber Partitions.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-TF-01.png",
-     "bytes": 62388,
-     "number": "ES26-080-TF-01",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-TF-02",
-     "title": "T01 Semi - First Floor Timber Partitions",
-     "file": "docs/drawings/ES26-080-TF-02 T01 Semi - First Floor Timber Partitions.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-TF-02.png",
-     "bytes": 70306,
-     "number": "ES26-080-TF-02",
-     "view": "stage-4",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-TF-03",
-     "title": "T01 Terrace of 3 - Ground Floor Timber Partitions",
-     "file": "docs/drawings/ES26-080-TF-03 T01 Terrace of 3 - Ground Floor Timber Partitions.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-TF-03.png",
-     "bytes": 66165,
-     "number": "ES26-080-TF-03",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-TF-04",
-     "title": "T01 Terrace of 3 - First Floor Timber Partitions",
-     "file": "docs/drawings/ES26-080-TF-04 T01 Terrace of 3 - First Floor Timber Partitions.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-TF-04.png",
-     "bytes": 77345,
-     "number": "ES26-080-TF-04",
-     "view": "stage-4",
-     "view_opts": {}
-    },
-    {
-     "id": "ES26-080-TF-05",
-     "title": "T02 Bungalow - Ground Floor Timber Partitions",
-     "file": "docs/drawings/ES26-080-TF-05 T02 Bungalow - Ground Floor Timber Partitions.pdf",
-     "pages": 1,
-     "thumb": "thumbs/ES26-080-TF-05.png",
-     "bytes": 64577,
-     "number": "ES26-080-TF-05",
-     "view": "stage-2",
-     "view_opts": {}
-    },
-    {
      "id": "ES26-080-XI-01",
      "title": "BOQ package - ICF, programme and finishes",
-     "file": "docs/drawings/ES26-080-XI-01 BOQ package - ICF, programme and finishes.pdf",
+     "file": "docs/quote/ES26-080-XI-01 BOQ package - ICF, programme and finishes.pdf",
      "pages": 92,
      "thumb": "thumbs/ES26-080-XI-01.png",
      "bytes": 898868,
@@ -599,7 +225,429 @@
    "downloads": [
     {
      "file": "downloads/ES26-080 BOQ Package.xlsx",
-     "title": "BOQ package - ancillary trades (Excel, live rates) (0.3 MB)"
+     "title": "BOQ package - ICF, programme and finishes (Excel, live rates) (0.3 MB)"
+    }
+   ]
+  },
+  {
+   "id": "site",
+   "title": "Site and footings",
+   "note": "The 10G site plan with the 8 blocks, plot numbers and assumed floor levels, and the stepped ICF footing schedule for each block.",
+   "zip": {
+    "file": "downloads/ES26-080 Site and footings.zip",
+    "bytes": 8591407,
+    "count": 2
+   },
+   "docs": [
+    {
+     "id": "ES26-080-FD-01",
+     "title": "Stepped Foundation ICF Schedule",
+     "file": "docs/site/ES26-080-FD-01 Stepped Foundation ICF Schedule.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-FD-01.png",
+     "bytes": 63445,
+     "number": "ES26-080-FD-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-SP-01",
+     "title": "Site Plan - Blocks, Plots and Floor Levels",
+     "file": "docs/site/ES26-080-SP-01 Site Plan - Blocks, Plots and Floor Levels.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-SP-01.png",
+     "bytes": 10543350,
+     "number": "ES26-080-SP-01",
+     "view": "stage-5",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "semi",
+   "title": "T01 Semi-detached pair - Blocks B01, B04 (plots 01-02, 09-10)",
+   "note": "House type HT01 3B5P as a semi pair: ICF general arrangements with the timber partitions, elevations, a section, roof trusses and profiles, first-floor joists and profiles, partition plans.",
+   "zip": {
+    "file": "downloads/ES26-080 T01 Semi-detached pair - Blocks B01, B04 (plots 01-02, 09-10).zip",
+    "bytes": 1057736,
+    "count": 12
+   },
+   "docs": [
+    {
+     "id": "ES26-080-GA-01",
+     "title": "T01 Semi - Foundation ICF",
+     "file": "docs/semi/ES26-080-GA-01 T01 Semi - Foundation ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-01.png",
+     "bytes": 55292,
+     "number": "ES26-080-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-GA-02",
+     "title": "T01 Semi - Ground Floor ICF",
+     "file": "docs/semi/ES26-080-GA-02 T01 Semi - Ground Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-02.png",
+     "bytes": 59856,
+     "number": "ES26-080-GA-02",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-GA-03",
+     "title": "T01 Semi - First Floor ICF",
+     "file": "docs/semi/ES26-080-GA-03 T01 Semi - First Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-03.png",
+     "bytes": 60089,
+     "number": "ES26-080-GA-03",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-01",
+     "title": "T01 Semi - Front and Rear Elevations",
+     "file": "docs/semi/ES26-080-EL-01 T01 Semi - Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-01.png",
+     "bytes": 204155,
+     "number": "ES26-080-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-02",
+     "title": "T01 Semi - Side Elevations",
+     "file": "docs/semi/ES26-080-EL-02 T01 Semi - Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-02.png",
+     "bytes": 382621,
+     "number": "ES26-080-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-SE-01",
+     "title": "T01 Semi - Section A-A",
+     "file": "docs/semi/ES26-080-SE-01 T01 Semi - Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-SE-01.png",
+     "bytes": 162422,
+     "number": "ES26-080-SE-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-FL-01",
+     "title": "T01 Semi - First Floor Layout",
+     "file": "docs/semi/ES26-080-FL-01 T01 Semi - First Floor Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-FL-01.png",
+     "bytes": 90242,
+     "number": "ES26-080-FL-01",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-FL-02",
+     "title": "T01 Semi - Floor Joist Profiles",
+     "file": "docs/semi/ES26-080-FL-02 T01 Semi - Floor Joist Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-FL-02.png",
+     "bytes": 57876,
+     "number": "ES26-080-FL-02",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-01",
+     "title": "T01 Semi - Roof Truss Layout",
+     "file": "docs/semi/ES26-080-RF-01 T01 Semi - Roof Truss Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-01.png",
+     "bytes": 60664,
+     "number": "ES26-080-RF-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-02",
+     "title": "T01 Semi - Truss Profiles",
+     "file": "docs/semi/ES26-080-RF-02 T01 Semi - Truss Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-02.png",
+     "bytes": 54610,
+     "number": "ES26-080-RF-02",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-TF-01",
+     "title": "T01 Semi - Ground Floor Timber Partitions",
+     "file": "docs/semi/ES26-080-TF-01 T01 Semi - Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-TF-01.png",
+     "bytes": 62388,
+     "number": "ES26-080-TF-01",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-TF-02",
+     "title": "T01 Semi - First Floor Timber Partitions",
+     "file": "docs/semi/ES26-080-TF-02 T01 Semi - First Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-TF-02.png",
+     "bytes": 70306,
+     "number": "ES26-080-TF-02",
+     "view": "stage-4",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "terrace",
+   "title": "T01 Terrace of 3 - Blocks B02, B03, B05, B08 (plots 03-08, 11-13, 16-18)",
+   "note": "House type HT01 3B5P as a terrace of three (plots 16-18 in stone): ICF general arrangements with the timber partitions, elevations, a section, roof trusses and profiles, first-floor joists and profiles, partition plans.",
+   "zip": {
+    "file": "downloads/ES26-080 T01 Terrace of 3 - Blocks B02, B03, B05, B08 (plots 03-08, 11-13, 16-18).zip",
+    "bytes": 1334096,
+    "count": 12
+   },
+   "docs": [
+    {
+     "id": "ES26-080-GA-04",
+     "title": "T01 Terrace of 3 - Foundation ICF",
+     "file": "docs/terrace/ES26-080-GA-04 T01 Terrace of 3 - Foundation ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-04.png",
+     "bytes": 55594,
+     "number": "ES26-080-GA-04",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-GA-05",
+     "title": "T01 Terrace of 3 - Ground Floor ICF",
+     "file": "docs/terrace/ES26-080-GA-05 T01 Terrace of 3 - Ground Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-05.png",
+     "bytes": 61976,
+     "number": "ES26-080-GA-05",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-GA-06",
+     "title": "T01 Terrace of 3 - First Floor ICF",
+     "file": "docs/terrace/ES26-080-GA-06 T01 Terrace of 3 - First Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-06.png",
+     "bytes": 62293,
+     "number": "ES26-080-GA-06",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-03",
+     "title": "T01 Terrace of 3 - Front and Rear Elevations",
+     "file": "docs/terrace/ES26-080-EL-03 T01 Terrace of 3 - Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-03.png",
+     "bytes": 287084,
+     "number": "ES26-080-EL-03",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-04",
+     "title": "T01 Terrace of 3 - Side Elevations",
+     "file": "docs/terrace/ES26-080-EL-04 T01 Terrace of 3 - Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-04.png",
+     "bytes": 540390,
+     "number": "ES26-080-EL-04",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-SE-02",
+     "title": "T01 Terrace of 3 - Section A-A",
+     "file": "docs/terrace/ES26-080-SE-02 T01 Terrace of 3 - Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-SE-02.png",
+     "bytes": 233680,
+     "number": "ES26-080-SE-02",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-FL-03",
+     "title": "T01 Terrace of 3 - First Floor Layout",
+     "file": "docs/terrace/ES26-080-FL-03 T01 Terrace of 3 - First Floor Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-FL-03.png",
+     "bytes": 103836,
+     "number": "ES26-080-FL-03",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-FL-04",
+     "title": "T01 Terrace of 3 - Floor Joist Profiles",
+     "file": "docs/terrace/ES26-080-FL-04 T01 Terrace of 3 - Floor Joist Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-FL-04.png",
+     "bytes": 58111,
+     "number": "ES26-080-FL-04",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-03",
+     "title": "T01 Terrace of 3 - Roof Truss Layout",
+     "file": "docs/terrace/ES26-080-RF-03 T01 Terrace of 3 - Roof Truss Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-03.png",
+     "bytes": 62497,
+     "number": "ES26-080-RF-03",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-04",
+     "title": "T01 Terrace of 3 - Truss Profiles",
+     "file": "docs/terrace/ES26-080-RF-04 T01 Terrace of 3 - Truss Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-04.png",
+     "bytes": 54625,
+     "number": "ES26-080-RF-04",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-TF-03",
+     "title": "T01 Terrace of 3 - Ground Floor Timber Partitions",
+     "file": "docs/terrace/ES26-080-TF-03 T01 Terrace of 3 - Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-TF-03.png",
+     "bytes": 66165,
+     "number": "ES26-080-TF-03",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-TF-04",
+     "title": "T01 Terrace of 3 - First Floor Timber Partitions",
+     "file": "docs/terrace/ES26-080-TF-04 T01 Terrace of 3 - First Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-TF-04.png",
+     "bytes": 77345,
+     "number": "ES26-080-TF-04",
+     "view": "stage-4",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bungalow",
+   "title": "T02 Bungalow - Blocks B06, B07 (plots 14, 15)",
+   "note": "House type HT02 2B4P detached bungalow: ICF general arrangements with the timber partitions, elevations, a section, the hip roof layout (girder trusses, Fink between, hip ends framed with hips and jack rafters) and partition plan.",
+   "zip": {
+    "file": "downloads/ES26-080 T02 Bungalow - Blocks B06, B07 (plots 14, 15).zip",
+    "bytes": 430553,
+    "count": 8
+   },
+   "docs": [
+    {
+     "id": "ES26-080-GA-07",
+     "title": "T02 Bungalow - Foundation ICF",
+     "file": "docs/bungalow/ES26-080-GA-07 T02 Bungalow - Foundation ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-07.png",
+     "bytes": 54856,
+     "number": "ES26-080-GA-07",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-GA-08",
+     "title": "T02 Bungalow - Ground Floor ICF",
+     "file": "docs/bungalow/ES26-080-GA-08 T02 Bungalow - Ground Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-GA-08.png",
+     "bytes": 58401,
+     "number": "ES26-080-GA-08",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-05",
+     "title": "T02 Bungalow - Front and Rear Elevations",
+     "file": "docs/bungalow/ES26-080-EL-05 T02 Bungalow - Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-05.png",
+     "bytes": 95409,
+     "number": "ES26-080-EL-05",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-EL-06",
+     "title": "T02 Bungalow - Side Elevations",
+     "file": "docs/bungalow/ES26-080-EL-06 T02 Bungalow - Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-EL-06.png",
+     "bytes": 81923,
+     "number": "ES26-080-EL-06",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-SE-03",
+     "title": "T02 Bungalow - Section A-A",
+     "file": "docs/bungalow/ES26-080-SE-03 T02 Bungalow - Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-SE-03.png",
+     "bytes": 64400,
+     "number": "ES26-080-SE-03",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-05",
+     "title": "T02 Bungalow - Hip Roof Layout",
+     "file": "docs/bungalow/ES26-080-RF-05 T02 Bungalow - Hip Roof Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-05.png",
+     "bytes": 60283,
+     "number": "ES26-080-RF-05",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-RF-06",
+     "title": "T02 Bungalow - Truss Profiles and Hip-End Timber",
+     "file": "docs/bungalow/ES26-080-RF-06 T02 Bungalow - Truss Profiles and Hip-End Timber.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-RF-06.png",
+     "bytes": 57121,
+     "number": "ES26-080-RF-06",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-080-TF-05",
+     "title": "T02 Bungalow - Ground Floor Timber Partitions",
+     "file": "docs/bungalow/ES26-080-TF-05 T02 Bungalow - Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-080-TF-05.png",
+     "bytes": 64577,
+     "number": "ES26-080-TF-05",
+     "view": "stage-2",
+     "view_opts": {}
     }
    ]
   }

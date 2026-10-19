@@ -11,7 +11,7 @@
      "glb": "stage-1.glb",
      "part": null,
      "label": null,
-     "bytes": 13420508
+     "bytes": 3362044
     }
    ]
   },
@@ -24,7 +24,7 @@
      "glb": "stage-2.glb",
      "part": null,
      "label": null,
-     "bytes": 16280476
+     "bytes": 7688472
     }
    ]
   },
@@ -37,7 +37,7 @@
      "glb": "stage-3.glb",
      "part": null,
      "label": null,
-     "bytes": 13503028
+     "bytes": 7342076
     }
    ]
   },
@@ -50,7 +50,7 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 17543684
+     "bytes": 9955220
     }
    ]
   },
@@ -63,7 +63,7 @@
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 10860964
+     "bytes": 924028
     }
    ]
   }
